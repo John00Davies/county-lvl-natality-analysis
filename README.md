@@ -1,15 +1,31 @@
 # Socioeconomic and Health Determinants of Maternal Outcomes: A County-Level Analysis for Pregnancy Support Services
+This project delivers data-driven insights on maternal health and socioeconomic factors on birth outcomes to highlight and uncover business potentials in opportunistic regions.
 
 ## Background and Objectives
 
-Maternal health is a critical factor influencing both maternal and newborn well-being. Disparities in healthcare access, socioeconomic resources, and support services can significantly affect pregnancy outcomes across different regions. This project identifies counties where pregnant women face higher risks due to poor maternal health, limited prenatal care, and economic hardships.
+Maternal health is a critical factor that influences the well-being of both mothers and their 
+new-borns. However, disparities in access to healthcare, socioeconomic resources, and 
+support services can significantly impact pregnancy outcomes across different regions. This 
+project focuses on identifying counties where pregnant women face higher risks due to 
+factors like poor maternal health, limited prenatal care, and economic hardships.
+Utilizing key metrics such as pre-pregnancy BMI, average birth weight, prenatal care access, 
+and socioeconomic indicators like income levels and employment rates, this project seeks to 
+pinpoint areas where support is most needed. The goal is to guide interventions to help 
+develop targeted support programs that improve maternal care and pregnancy outcomes in 
+underserved communities, ensuring healthier pregnancies and stronger maternal health 
+services.
+This project serves as a foundational step toward developing a business aimed at providing 
+holistic and tailored support services to pregnant women, ensuring that they receive the 
+necessary care and assistance to foster healthier pregnancies and, by extension, healthier 
+communities.
+These are the key areas that provide insights and recommendations:
 
 ### Project Focus:
-- **Pre-pregnancy BMI**
-- **Average birth weight**
-- **Access to prenatal care**
-- **Socioeconomic indicators (income levels, employment rates)**
-
+- **Maternal Health Metrics Analysis:**
+  Examination of factors influencing pregnancy outcomes like maternal pre-pregnancy BMI, average birth weight, and access to prenatal care. Identifying health and trends like low birth weight helps target regions needing improved healthcare services and maternal support
+- **Health and Socioeconomic Correlations:**
+  Examining how health metrics and socioeconomic conditions interact to affect birth outcomes. These correlations can provide insights into regions which may need improvements.
+  
 The goal is to guide interventions and develop targeted support programs that improve maternal care and outcomes in underserved communities.
 
 ---
