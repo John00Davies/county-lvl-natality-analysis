@@ -32,7 +32,7 @@ The goal is to guide interventions and develop targeted support programs that im
 
 ## Executive Summary 
 
-###**Overview of findings**
+###Overview of findings
 Findings reveals that maternal health outcomes, such as pre-pregnancy BMI and birth weight, 
 are primarily influenced by gestational age and maternal age, with socioeconomic factors 
 play a secondary role. While wealthier counties tend to have lower BMI levels, socioeconomic 
@@ -55,15 +55,15 @@ birth weight is moderate but important. Overall, gestational age plays the most 
 role in birth outcomes, while prenatal care access is crucial in supporting healthier 
 pregnancies. These insights can inform targeted strategies to enhance maternal health and 
 improve birth outcomes.
-• Pre-Pregnancy BMI: In the counties analysed, 566 (98.6% of counties) have an average 
+- Pre-Pregnancy BMI: In the counties analysed, 566 (98.6% of counties) have an average 
 BMI above 25.0, indicating overweight, with none exceeding 30.0, which is classified as 
 obesity. Sumter County, SC, has the highest average BMI at 29.4, nearing the obesity 
 threshold, while the 8 counties left show normal BMI levels. Some of the key Factors that 
 show a strong effect on the average BMI in a county were:
-o Average Age: There is a strong negative relationship between average age and BMI 
+-- Average Age: There is a strong negative relationship between average age and BMI 
 (r = -0.691). This means that in counties with older populations, the average BMI 
 tends to be lower. In other words, older people generally have lower average BMI.
-o Gestational Age: Both OE and LMP (‘Obstetric-Estimation’ and ‘Last-MenstrualPeriod’) Gestational Age show moderate negative correlations with BMI (r = -0.423 
+-- Gestational Age: Both OE and LMP (‘Obstetric-Estimation’ and ‘Last-MenstrualPeriod’) Gestational Age show moderate negative correlations with BMI (r = -0.423 
 and r = -0.321, respectively). This suggests that a lower BMI has an effect for a 
 mature pregnancy.
 
