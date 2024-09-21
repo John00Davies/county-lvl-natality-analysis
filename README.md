@@ -55,42 +55,25 @@ birth weight is moderate but important. Overall, gestational age plays the most 
 role in birth outcomes, while prenatal care access is crucial in supporting healthier 
 pregnancies. These insights can inform targeted strategies to enhance maternal health and 
 improve birth outcomes.
-- Pre-Pregnancy BMI: In the counties analysed, 566 (98.6% of counties) have an average 
-BMI above 25.0, indicating overweight, with none exceeding 30.0, which is classified as 
-obesity. Sumter County, SC, has the highest average BMI at 29.4, nearing the obesity 
-threshold, while the 8 counties left show normal BMI levels. Some of the key Factors that 
-show a strong effect on the average BMI in a county were:
--- Average Age: There is a strong negative relationship between average age and BMI 
-(r = -0.691). This means that in counties with older populations, the average BMI 
-tends to be lower. In other words, older people generally have lower average BMI.
-
--- Gestational Age: Both OE and LMP (‘Obstetric-Estimation’ and ‘Last-MenstrualPeriod’) Gestational Age show moderate negative correlations with BMI (r = -0.423 
-and r = -0.321, respectively). This suggests that a lower BMI has an effect for a 
-mature pregnancy.
+Key Findings:
+- **Pre-Pregnancy BMI**: 98.6% of counties analyzed have an average BMI above 25, with Sumter County, SC having the highest (29.4), nearing the obesity threshold.
+- **Average Birth Weight**: The national average is 3.27kg. Whatcom, WA has the highest, while Hinds, MS has the lowest.
+- **Prenatal Visits**: On average, mothers receive 11.4 weeks of prenatal care, though there is significant variation across counties.
 
 
-- Average Birth Weight: The Average Birth weight of a child is 3.27kg (7.22Lbs)
-dropping by -0.16% between 2018 and 2016. Whatcom, WA, has the highest average 
-birth weight, at 4.3% above the national average, while Hinds, MS, has the lowest, 7.2% 
-below the average. Some of the key Factors that show a strong effect on the average 
-Birth weight in a county were:
 
-  -- Gestational Age: There is a strong correlation between gestational age and birth 
-weight (r = -0.741 for OE and r = -0.711 for LMP). This means that babies born from 
-longer pregnancies generally weigh more. Essentially, a longer pregnancy usually 
-results in a heavier baby.
-
- --Average Age: The average maternal age has a moderate negative correlation with 
-birth weight (r = -0.374). This suggests that in counties with older average maternal 
-age, the average birth weight tends to be slightly lower.
-  -- BMI: The correlation between BMI and birth weight is relatively weak (r = -0.224). 
-This indicates that while there is some link between a mother’s BMI and her baby’s 
-birth weight, it is less significant than other factors like gestational age.
 
 ![Maternal Health Metrics](https://example.com/maternal_health_metrics_image)
 
-### 2. Health and Socioeconomic Correlations
-This section explores how health metrics correlate with socioeconomic conditions.
+### 2. Socioeconomic and Health Correlations
+**Overview:** Examining the relationship between economic conditions and maternal health 
+shows that income levels play a notable role in shaping health outcomes. Counties with 
+higher net earnings and per capita income tend to have lower pre-pregnancy BMI averages, 
+indicating that stronger financial resources are linked to healthier maternal weight levels. On 
+the other hand, socioeconomic factors have only a minor influence on birth weight, with 
+weak correlations suggesting that gestational factors are far more critical in determining a 
+baby’s birth weight than economic status alone.
+
 
 ![Health and Socioeconomic Correlations](https://example.com/socioeconomic_correlations_image)
 
