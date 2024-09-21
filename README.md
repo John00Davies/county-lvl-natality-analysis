@@ -83,15 +83,13 @@ improve birth outcomes.
 
 Key Findings:
 - **Pre-Pregnancy BMI**: In the analyzed counties, 566 (98.6%) have an average pre-pregnancy BMI above 25.0, indicating overweight status, with Sumter County, SC, having the highest at 29.4. A strong negative correlation (r = -0.691) exists between average age and BMI, showing that older populations tend to have lower BMIs. Moderate negative correlations were also found between gestational age measures and BMI (r = -0.423 for Obstetric Estimation and r = -0.321 for Last Menstrual Period), indicating that lower BMIs are linked to more mature pregnancies. These findings underscore the need for interventions targeting obesity in younger demographics.
-- ![2. BMI_by_Age.jpeg](https://github.com/John00Davies/county-lvl-natality-analysis/blob/main/4.%20Images/2.%20BMI_by_Age.jpeg)
+![2. BMI_by_Age.jpeg](https://github.com/John00Davies/county-lvl-natality-analysis/blob/main/4.%20Images/2.%20BMI_by_Age.jpeg)
 - **Average Birth Weight**: The average birth weight is 3.27 kg (7.22 lbs), declining by -0.16% from 2016 to 2018. Whatcom, WA, has the highest average birth weight, 4.3% above the national average, while Hinds, MS, is 7.2% below. Key factors influencing birth weight include strong negative correlations with gestational age (r = -0.741 for Obstetric Estimation and r = -0.711 for Last Menstrual Period), indicating that longer pregnancies lead to heavier babies. Maternal age also has a moderate negative correlation (r = -0.374) with birth weight, while the link between maternal BMI and birth weight is weak (r = -0.224).
--  ![3. Birth_weight_and_gest.jpeg](https://github.com/John00Davies/county-lvl-natality-analysis/blob/main/4.%20Images/3.%20Birth_weight_and_gest.jpeg)
+![3. Birth_weight_and_gest.jpeg](https://github.com/John00Davies/county-lvl-natality-analysis/blob/main/4.%20Images/3.%20Birth_weight_and_gest.jpeg)
 - **Prenatal Visits**: On average, mothers receive 11.4 weeks of prenatal care, but this varies significantly, with Nueces County, TX, having the lowest at just 2.5 weeks, 22% below the national average. There is a moderate correlation between the number of prenatal visits and birth weight (r = -0.325), indicating that while prenatal care impacts birth weight, its influence is modest compared to stronger factors like gestational age and more significant than socioeconomic factors.
 
 
 
-
-![Maternal Health Metrics](https://example.com/maternal_health_metrics_image)
 
 ### 2. Socioeconomic and Health Correlations
 **Overview:** Examining the relationship between economic conditions and maternal health 
@@ -101,9 +99,6 @@ indicating that stronger financial resources are linked to healthier maternal we
 the other hand, socioeconomic factors have only a minor influence on birth weight, with 
 weak correlations suggesting that gestational factors are far more critical in determining a 
 baby’s birth weight than economic status alone.
-
-
-![Health and Socioeconomic Correlations](https://example.com/socioeconomic_correlations_image)
 
 Key Findings:
 - **BMI and Income**: Counties with higher income levels tend to have lower BMI (e.g., Sumter County, SC has one of the highest BMI averages).
