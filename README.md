@@ -30,6 +30,27 @@ The goal is to guide interventions and develop targeted support programs that im
 
 ---
 
+## Data Structure
+
+The analysis uses a merged dataset from two tables: `county_natality.csv` and `FIPS_socioeconomic.csv`, resulting in the final table `Merged_Natality_FIPS.csv` with 1,722 rows. This table was used for both SQL and Excel analysis.
+
+![Data Structure](https://example.com/data_structure_image)
+
+### SQL Queries:
+- Data extraction and loading: [SQL File](https://github.com/John00Davies/county-lvl-natality-analysis/blob/main/1.%20SQL%20files%20(Cleaning%20and%20EDA)/0.%20Loading%20Data%20Tables.sql)
+- Data cleaning and inspection: [SQL File](https://github.com/John00Davies/county-lvl-natality-analysis/blob/main/1.%20SQL%20files%20(Cleaning%20and%20EDA)/1.%20Initial%20Data%20Checking%20and%20Cleaning.sql)
+- Merging and formatting: [SQL File](https://github.com/John00Davies/county-lvl-natality-analysis/blob/main/1.%20SQL%20files%20(Cleaning%20and%20EDA)/2.%20Data%20Merge%20and%20Formatting.sql)
+
+---
+
+## Project Resources
+
+- **CSV Files**: [Link to CSV files](https://github.com/John00Davies/county-lvl-natality-analysis/tree/main/0.%20CSV%20files)
+- **Excel Dashboard**: [Link to Excel dashboard and analysis](https://github.com/John00Davies/county-lvl-natality-analysis/blob/main/2.%20Excel%20File%20(Dashboard%20and%20Analysis)/Dashboard%20and%20Further%20Analysis.xlsx)
+- **Executive Summary PDF**: [Link to PDF file](https://github.com/John00Davies/county-lvl-natality-analysis/tree/main/3.%20Executive%20Summary%20Pdf%20file)
+
+---
+
 ## Executive Summary 
 
 ### Overview of findings
@@ -55,6 +76,7 @@ birth weight is moderate but important. Overall, gestational age plays the most 
 role in birth outcomes, while prenatal care access is crucial in supporting healthier 
 pregnancies. These insights can inform targeted strategies to enhance maternal health and 
 improve birth outcomes.
+
 Key Findings:
 - **Pre-Pregnancy BMI**: In the analyzed counties, 566 (98.6%) have an average pre-pregnancy BMI above 25.0, indicating overweight status, with Sumter County, SC, having the highest at 29.4. A strong negative correlation (r = -0.691) exists between average age and BMI, showing that older populations tend to have lower BMIs. Moderate negative correlations were also found between gestational age measures and BMI (r = -0.423 for Obstetric Estimation and r = -0.321 for Last Menstrual Period), indicating that lower BMIs are linked to more mature pregnancies. These findings underscore the need for interventions targeting obesity in younger demographics.
 - **Average Birth Weight**: The average birth weight is 3.27 kg (7.22 lbs), declining by -0.16% from 2016 to 2018. Whatcom, WA, has the highest average birth weight, 4.3% above the national average, while Hinds, MS, is 7.2% below. Key factors influencing birth weight include strong negative correlations with gestational age (r = -0.741 for Obstetric Estimation and r = -0.711 for Last Menstrual Period), indicating that longer pregnancies lead to heavier babies. Maternal age also has a moderate negative correlation (r = -0.374) with birth weight, while the link between maternal BMI and birth weight is weak (r = -0.224).
@@ -94,26 +116,6 @@ Based on the analysis, the following recommendations are proposed:
 
 ---
 
-## Data Structure
-
-The analysis uses a merged dataset from two tables: `county_natality.csv` and `FIPS_socioeconomic.csv`, resulting in the final table `Merged_Natality_FIPS.csv` with 1,722 rows. This table was used for both SQL and Excel analysis.
-
-![Data Structure](https://example.com/data_structure_image)
-
-### SQL Queries:
-- Data extraction and loading: [SQL File](https://github.com/John00Davies/county-lvl-natality-analysis/blob/main/1.%20SQL%20files%20(Cleaning%20and%20EDA)/0.%20Loading%20Data%20Tables.sql)
-- Data cleaning and inspection: [SQL File](https://github.com/John00Davies/county-lvl-natality-analysis/blob/main/1.%20SQL%20files%20(Cleaning%20and%20EDA)/1.%20Initial%20Data%20Checking%20and%20Cleaning.sql)
-- Merging and formatting: [SQL File](https://github.com/John00Davies/county-lvl-natality-analysis/blob/main/1.%20SQL%20files%20(Cleaning%20and%20EDA)/2.%20Data%20Merge%20and%20Formatting.sql)
-
----
-
-## Project Resources
-
-- **CSV Files**: [Link to CSV files](https://github.com/John00Davies/county-lvl-natality-analysis/tree/main/0.%20CSV%20files)
-- **Excel Dashboard**: [Link to Excel dashboard and analysis](https://github.com/John00Davies/county-lvl-natality-analysis/blob/main/2.%20Excel%20File%20(Dashboard%20and%20Analysis)/Dashboard%20and%20Further%20Analysis.xlsx)
-- **Executive Summary PDF**: [Link to PDF file](https://github.com/John00Davies/county-lvl-natality-analysis/tree/main/3.%20Executive%20Summary%20Pdf%20file)
-
----
 
 ## Conclusion
 
