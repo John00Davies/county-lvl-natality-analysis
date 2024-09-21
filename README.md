@@ -18,6 +18,7 @@ This project serves as a foundational step toward developing a business aimed at
 holistic and tailored support services to pregnant women, ensuring that they receive the 
 necessary care and assistance to foster healthier pregnancies and, by extension, healthier 
 communities.
+
 These are the key areas that provide insights and recommendations:
 
 ### Project Focus:
@@ -65,7 +66,9 @@ and healthcare access are key drivers of maternal and infant health, with econom
 conditions plays a supporting role. These insights can inform targeted strategies to enhance 
 maternal health and improve birth outcomes.
 
-Below is an Overview from the Excel Dashboard. Which can be fully accessed here
+Below is an Overview from the Excel Dashboard. Which can be fully accessed [here](https://github.com/John00Davies/county-lvl-natality-analysis/blob/main/2.%20Excel%20File%20(Dashboard%20and%20Analysis)/Dashboard%20and%20Further%20Analysis.xlsx)
+
+[4. Images/1. Dashboard.jpeg](https://github.com/John00Davies/county-lvl-natality-analysis/blob/main/4.%20Images/1.%20Dashboard.jpeg)
 
 ### 1. Maternal Health Metrics Analysis
 **Overview:** The analysis reveals that maternal age, gestational age, and prenatal care are key 
