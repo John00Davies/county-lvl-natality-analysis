@@ -34,7 +34,7 @@ The goal is to guide interventions and develop targeted support programs that im
 
 The analysis uses a merged dataset from two tables: `county_natality.csv` and `FIPS_socioeconomic.csv`, resulting in the final table `Merged_Natality_FIPS.csv` with 1,722 rows. This table was used for both SQL and Excel analysis.
 
-![Data Structure](0. Data_structure.jpeg)
+![0. Data_structure.jpeg](https://github.com/John00Davies/county-lvl-natality-analysis/blob/main/4.%20Images/0.%20Data_structure.jpeg)
 
 ### SQL Queries:
 - Data extraction and loading: [SQL File](https://github.com/John00Davies/county-lvl-natality-analysis/blob/main/1.%20SQL%20files%20(Cleaning%20and%20EDA)/0.%20Loading%20Data%20Tables.sql)
