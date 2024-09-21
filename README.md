@@ -32,7 +32,7 @@ The goal is to guide interventions and develop targeted support programs that im
 
 ## Executive Summary 
 
-###Overview of findings
+### Overview of findings
 Findings reveals that maternal health outcomes, such as pre-pregnancy BMI and birth weight, 
 are primarily influenced by gestational age and maternal age, with socioeconomic factors 
 play a secondary role. While wealthier counties tend to have lower BMI levels, socioeconomic 
