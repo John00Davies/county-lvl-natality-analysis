@@ -63,24 +63,27 @@ show a strong effect on the average BMI in a county were:
 -- Average Age: There is a strong negative relationship between average age and BMI 
 (r = -0.691). This means that in counties with older populations, the average BMI 
 tends to be lower. In other words, older people generally have lower average BMI.
+
 -- Gestational Age: Both OE and LMP (‘Obstetric-Estimation’ and ‘Last-MenstrualPeriod’) Gestational Age show moderate negative correlations with BMI (r = -0.423 
 and r = -0.321, respectively). This suggests that a lower BMI has an effect for a 
 mature pregnancy.
 
 
-• Average Birth Weight: The Average Birth weight of a child is 3.27kg (7.22Lbs)
+- Average Birth Weight: The Average Birth weight of a child is 3.27kg (7.22Lbs)
 dropping by -0.16% between 2018 and 2016. Whatcom, WA, has the highest average 
 birth weight, at 4.3% above the national average, while Hinds, MS, has the lowest, 7.2% 
 below the average. Some of the key Factors that show a strong effect on the average 
 Birth weight in a county were:
-o Gestational Age: There is a strong correlation between gestational age and birth 
+
+  -- Gestational Age: There is a strong correlation between gestational age and birth 
 weight (r = -0.741 for OE and r = -0.711 for LMP). This means that babies born from 
 longer pregnancies generally weigh more. Essentially, a longer pregnancy usually 
 results in a heavier baby.
-o Average Age: The average maternal age has a moderate negative correlation with 
+
+ --Average Age: The average maternal age has a moderate negative correlation with 
 birth weight (r = -0.374). This suggests that in counties with older average maternal 
 age, the average birth weight tends to be slightly lower.
-o BMI: The correlation between BMI and birth weight is relatively weak (r = -0.224). 
+  -- BMI: The correlation between BMI and birth weight is relatively weak (r = -0.224). 
 This indicates that while there is some link between a mother’s BMI and her baby’s 
 birth weight, it is less significant than other factors like gestational age.
 
